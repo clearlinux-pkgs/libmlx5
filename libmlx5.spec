@@ -4,7 +4,7 @@
 #
 Name     : libmlx5
 Version  : 1.2.1
-Release  : 4
+Release  : 5
 URL      : https://www.openfabrics.org/downloads/mlx5/libmlx5-1.2.1.tar.gz
 Source0  : https://www.openfabrics.org/downloads/mlx5/libmlx5-1.2.1.tar.gz
 Summary  : Mellanox ConnectX-IB InfiniBand HCA Userspace Driver
